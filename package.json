@@ -2,6 +2,7 @@
   "name": "mern-shopping",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://anushaselvan.github.io/Redux-Store/",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -15,5 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
