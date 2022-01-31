@@ -19,10 +19,12 @@
 - Run 'npm run develop' to develop locally in your computer.
 
 ## Usage
-  The application lets user to signup/login, add products to the cart and delete the products.
+  The application lets user to signup/login, add products to the cart and delete the products.<br>
   Overview of the application:
 
-  
+  ![image (3)](https://user-images.githubusercontent.com/84444052/151725043-a9e2dd24-41a1-4969-a967-a132321788cd.png)
+  ![image (4)](https://user-images.githubusercontent.com/84444052/151725047-1ef295c0-444c-4373-a3df-00d324878b01.png)
+  ![image (5)](https://user-images.githubusercontent.com/84444052/151725107-eee8523e-29ee-49d7-86d8-1a5bd96e9553.png)
 
 ## Contribution
   Submit a Pull Request to collaborate!
